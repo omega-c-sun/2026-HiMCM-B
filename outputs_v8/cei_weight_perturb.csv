@@ -1,0 +1,16 @@
+metric,value
+n_trials,400
+A_wins,400
+B_wins,0
+other_wins,0
+A_win_rate,1.0
+B_win_rate,0.0
+w0_dTeq,0.1652
+w0_SCD,0.2136
+w0_RAR,0.2630
+w0_energy,0.1057
+w0_water,0.1093
+w0_f_occ,0.1432
+cei0_A,0.5992
+cei0_B,0.1654
+cei0_C,0.1652

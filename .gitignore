@@ -1,13 +1,46 @@
+# Python
 __pycache__/
 *.py[cod]
+*$py.class
 .venv/
 venv/
-out/*.csv
-out/*.png
-out/*.txt
-!.gitkeep
-.DS_Store
-*.pdf
+*.egg-info/
+.pytest_cache/
+
+# Secrets / local env
 .env
-**/*key*
-**/*secret*
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Scratch / extracted text / probes
+papers/_v7_extract.txt
+papers/_18388_extract.txt
+papers/_extract_pdfs.py
+paper/scripts/_math_probe*.py
+paper/_probe*
+
+# Intermediate PDFs (keep releasing 18388_v9.pdf intentionally via git add -f if needed)
+paper/18388.pdf
+paper/18388_v8.pdf
+*.tmp.pdf
+
+# Regenerable run dumps (figures for the paper live under paper/figures/)
+outputs/
+outputs_v8/*.png
+model/**/__pycache__/
+model_v8/**/__pycache__/
+upload/**/__pycache__/
+upload/out/*.csv
+upload/out/*.png
+upload/out/*.txt
+!upload/out/.gitkeep
+
+# Large reference PDFs in papers/ (optional local library)
+papers/*.pdf

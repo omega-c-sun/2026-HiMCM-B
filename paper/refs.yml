@@ -1,0 +1,164 @@
+guangzhou2024:
+  type: article
+  title: "Field investigation of thermal comfort at bus shelters in hot-humid Guangzhou"
+  author: [{name: "Buildings Special Issue Contributors"}]
+  date: 2024
+  page-range: 2377
+  serial-number:
+    doi: "10.3390/buildings14082377"
+  parent:
+    type: periodical
+    title: Buildings
+    volume: 14
+
+tehran2022:
+  type: article
+  title: "On-site measurement of thermal comfort in semi-outdoor spaces on a university campus in Tehran"
+  author: [{name: "Atmosphere Contributors"}]
+  date: 2022
+  page-range: 1034
+  serial-number:
+    doi: "10.3390/atmos13071034"
+  parent:
+    type: periodical
+    title: Atmosphere
+    volume: 13
+
+spain2023:
+  type: article
+  title: "Cross-evaluation of thermal comfort in semi-outdoor spaces according to geometry in Southern Spain"
+  author:
+    - Diz-Mellado
+  date: 2023
+  page-range: "101491"
+  serial-number:
+    doi: "10.1016/j.uclim.2023.101491"
+  parent:
+    type: periodical
+    title: Urban Climate
+    volume: 49
+
+singapore2021:
+  type: article
+  title: "Evaluation of thermal comfort and building form attributes in different semi-outdoor environments in a high-density tropical setting"
+  author:
+    - Gamero-Salinas
+  date: 2021
+  page-range: "108255"
+  serial-number:
+    doi: "10.1016/j.buildenv.2021.108255"
+  parent:
+    type: periodical
+    title: Building and Environment
+    volume: 204
+
+egypt_bus:
+  type: article
+  title: "Strategies for Enhancing Thermal Comfort in Bus Stops Through Sustainable Design and Material Selection"
+  author: [{name: "BUE Scholar Contributors"}]
+  date: 2021
+  url: "https://buescholar.bue.edu.eg"
+
+cairo2021:
+  type: article
+  title: "Solar irradiance reduction using optimized green infrastructure in arid hot regions: El-Nozha, Cairo"
+  author:
+    - Elbardisy
+  date: 2021
+  page-range: 9617
+  serial-number:
+    doi: "10.3390/su13179617"
+  parent:
+    type: periodical
+    title: Sustainability
+    volume: 13
+
+caps2018:
+  type: report
+  title: "Climate Adapted People Shelters (CAPS) Case Study"
+  date: 2018
+  url: "https://heathealth.info/wp-content/uploads/CAPS_Case_Study_Feb_2018.pdf"
+  publisher: "Heat-Health Information Network"
+
+mist2024:
+  type: article
+  title: "Environmental effects and short-term thermal sensation of outdoor mist spray in hot-humid climates"
+  author: [{name: "Buildings Contributors"}]
+  date: 2024
+  page-range: 336
+  serial-number:
+    doi: "10.3390/buildings14020336"
+  parent:
+    type: periodical
+    title: Buildings
+    volume: 14
+
+wiley_dec2021:
+  type: article
+  title: "Direct evaporative cooling from wetted surfaces: Challenges for a clean air conditioning solution"
+  author:
+    - Tejero-González
+    - Franco-Salas
+  date: 2021
+  serial-number:
+    doi: "10.1002/wene.423"
+  parent:
+    type: periodical
+    title: "WIREs Energy and Environment"
+
+franco2019:
+  type: article
+  title: "Refrigeration capacity and effect of ageing on cellulose evaporative cooling pads"
+  author:
+    - Franco-Salas
+  date: 2019
+  page-range: 4690
+  serial-number:
+    doi: "10.3390/ijerph16234690"
+  parent:
+    type: periodical
+    title: "International Journal of Environmental Research and Public Health"
+    volume: 16
+
+rser2021:
+  type: article
+  title: "Optimal operation of evaporative cooling pads: A review"
+  author:
+    - Tejero-González
+    - Franco-Salas
+  date: 2021
+  page-range: "111632"
+  serial-number:
+    doi: "10.1016/j.rser.2021.111632"
+  parent:
+    type: periodical
+    title: "Renewable and Sustainable Energy Reviews"
+    volume: 151
+
+seville2024:
+  type: article
+  title: "Heat wave resilience in open spaces: a self-sufficient cooling shelter"
+  author:
+    - Montero-Gutiérrez
+  date: 2024
+  page-range: "114626"
+  serial-number:
+    doi: "10.1016/j.enbuild.2024.114626"
+  parent:
+    type: periodical
+    title: "Energy and Buildings"
+    volume: 320
+
+philadelphia2026:
+  type: article
+  title: "Community-based solar-powered and open-air cooling shelter for urban heat mitigation"
+  author:
+    - Bae
+  date: 2026
+  page-range: "107153"
+  serial-number:
+    doi: "10.1016/j.scs.2026.107153"
+  parent:
+    type: periodical
+    title: "Sustainable Cities and Society"
+    volume: 137

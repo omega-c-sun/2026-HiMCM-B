@@ -1,0 +1,6 @@
+condensed_B,dTeq_A,dTeq_B,dn,eps_B,label,margin,rh_star_pct,use_eps_rh,use_latent
+,,,0.5811,,fixed_eps_no_latent,,64.0,0,0
+,,,0.5809,,eps_rh_only,,54.0,1,0
+,,,0.5809,,eps_rh_plus_latent,,54.0,1,1
+0,3.2,1.59,0.5978,0.78,singapore_fixed,-1.61,,0,0
+0,3.2,1.014,0.607,0.455,singapore_full,-2.186,,1,1
