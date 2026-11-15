@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+out/*.csv
+out/*.png
+out/*.txt
+!.gitkeep
+.DS_Store
+*.pdf
+.env
+**/*key*
+**/*secret*
